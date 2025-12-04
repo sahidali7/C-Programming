@@ -1,4 +1,4 @@
-// Print 1(true) or 0(false) for following statements:
+// Q9. Print 1(true) or 0(false) for following statements:
 // a) if it's Sunday & it's snowing - true
 
 #include<stdio.h>
@@ -10,4 +10,5 @@ int main () {
 
     printf("%d", isSunday && isSnowing);
     return 0;
+
 }
