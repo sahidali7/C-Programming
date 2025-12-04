@@ -1,4 +1,4 @@
-// Write a program to calculate area of circle. (radius is given)
+// Q2. Write a program to calculate area of circle. (radius is given)
 
 #include<stdio.h>
 
@@ -9,4 +9,5 @@ int main() {
 
     printf("area of circle is : %f", 3.14*radius*radius);
     return 0;
+
 }
