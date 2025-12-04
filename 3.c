@@ -1,4 +1,4 @@
-// Write a program to calculate perimeter of rectangle
+// Q3. Write a program to calculate perimeter of rectangle
 // Take sides, a & b, from the user. 
 
 #include<stdio.h>
@@ -14,4 +14,5 @@ int main(){
     printf("Parameter of Rectangle is : %.2f\n", 2 * (a + b));
 
     return 0;
+
 }
