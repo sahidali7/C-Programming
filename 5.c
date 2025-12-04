@@ -1,4 +1,4 @@
-// Write comments for programs a & b.
+// Q5. Write comments for programs a & b.
 
 // Taking an example of C program to calculate parameter of rectangle
 
@@ -24,4 +24,5 @@ int main() {         // Start of the program
 
 /*  for multiple comments line  
     this is how we write
+
 */
