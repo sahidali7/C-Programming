@@ -1,4 +1,4 @@
-//Solve int a = 1.999999;
+//  Q6. Solve int a = 1.999999;
 
 #include<stdio.h>
 #include<math.h>
@@ -8,4 +8,5 @@ int main() {
     printf("%d\n", a);
 
     return 0;
+
 }
