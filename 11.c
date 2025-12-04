@@ -1,4 +1,4 @@
-// Write a program to check if given character is digit or not.
+// Q11. Write a program to check if given character is digit or not.
 
 #include<stdio.h>
 
@@ -11,4 +11,5 @@ int main() {
     printf("%d", (ch >= '0' && ch <= '9'));
 
     return 0;
+
 }
