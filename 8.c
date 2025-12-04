@@ -1,4 +1,4 @@
-// Write a program to check if a number is even or not.
+// Q8. Write a program to check if a number is even or not.
 
 #include<stdio.h>
 #include<math.h>
@@ -12,4 +12,5 @@ int x;
 
     printf("%d", x % 2 == 0);
     return 0;
+
 }
