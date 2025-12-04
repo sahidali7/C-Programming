@@ -1,4 +1,4 @@
-// Write a program to calculate Area of a square. (side is given)
+// Q1. Write a program to calculate Area of a square. (side is given)
 
 #include<stdio.h>
 
@@ -9,4 +9,5 @@ int main () {
 
     printf("Area of square: %d", side*side);
     return 0;
+
 } 
