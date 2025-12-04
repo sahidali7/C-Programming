@@ -1,4 +1,4 @@
-// Write a program to print the smallest number.
+// Q12. Write a program to print the smallest number.
 
 #include<stdio.h>
 
@@ -12,4 +12,5 @@ int main() {
 
     printf("Smallest number is: %d", small);
     return 0;
+
 }
